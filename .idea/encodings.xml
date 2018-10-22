@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-fastdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-hadoop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-jdbc-plugin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-shiro" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-shiro-oauth2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-shiro-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-social" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/daijie-workflow" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

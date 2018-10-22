@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/daijie-core/daijie-core-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-core/daijie-core-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-fastdfs/daijie-fastdfs-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-fastdfs/daijie-fastdfs-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-hadoop/daijie-hadoop-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-hadoop/daijie-hadoop-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-jdbc-plugin/daijie-jdbc-plugin.iml" filepath="$PROJECT_DIR$/daijie-jdbc-plugin/daijie-jdbc-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-jdbc/daijie-jdbc-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-jdbc/daijie-jdbc-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-parent-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-parent-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-shiro-oauth2/daijie-shiro-oauth2-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-shiro-oauth2/daijie-shiro-oauth2-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-shiro-security/daijie-shiro-security-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-shiro-security/daijie-shiro-security-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-shiro/daijie-shiro-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-shiro/daijie-shiro-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-social/daijie-social-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-social/daijie-social-spring-boot-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/daijie-workflow/daijie-workflow-spring-boot-starter.iml" filepath="$PROJECT_DIR$/daijie-workflow/daijie-workflow-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>

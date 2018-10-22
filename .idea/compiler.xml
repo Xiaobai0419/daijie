@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="daijie-core-spring-boot-starter" />
+        <module name="daijie-fastdfs-spring-boot-starter" />
+        <module name="daijie-hadoop-spring-boot-starter" />
+        <module name="daijie-jdbc-plugin" />
+        <module name="daijie-jdbc-spring-boot-starter" />
+        <module name="daijie-shiro-oauth2-spring-boot-starter" />
+        <module name="daijie-shiro-security-spring-boot-starter" />
+        <module name="daijie-shiro-spring-boot-starter" />
+        <module name="daijie-social-spring-boot-starter" />
+        <module name="daijie-workflow-spring-boot-starter" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="daijie-core-spring-boot-starter" target="1.8" />
+      <module name="daijie-fastdfs-spring-boot-starter" target="1.8" />
+      <module name="daijie-hadoop-spring-boot-starter" target="1.8" />
+      <module name="daijie-jdbc-plugin" target="1.8" />
+      <module name="daijie-jdbc-spring-boot-starter" target="1.8" />
+      <module name="daijie-parent-spring-boot-starter" target="1.8" />
+      <module name="daijie-shiro-oauth2-spring-boot-starter" target="1.8" />
+      <module name="daijie-shiro-security-spring-boot-starter" target="1.8" />
+      <module name="daijie-shiro-spring-boot-starter" target="1.8" />
+      <module name="daijie-social-spring-boot-starter" target="1.8" />
+      <module name="daijie-workflow-spring-boot-starter" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
